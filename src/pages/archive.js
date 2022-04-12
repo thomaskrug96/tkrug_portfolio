@@ -180,18 +180,6 @@ const ArchivePage = ({ location, data }) => {
                       <td className="company hide-on-mobile">
                         {company ? <span>{company}</span> : <span>—</span>}
                       </td>
-
-                      <td className="tech hide-on-mobile">
-                        {tech.length > 0 &&
-                          tech.map((item, i) => (
-                            <span key={i}>
-                              {item}
-                              {''}
-                              {i !== tech.length - 1 && <span className="separator">&middot;</span>}
-                            </span>
-                          ))}
-                      </td>
-
                       <td className="links">
                         <div>
                           {external && (
