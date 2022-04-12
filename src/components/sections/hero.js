@@ -64,14 +64,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I'm a software engineer specializing in building cloud-based web apps. 
-        I have previously served as a product development engineer at
-        
-        {' '}
-        <a href="https://analog.com/" target="_blank" rel="noreferrer">
-          Analog Devices
-        </a>
-        .
+        I'm a software engineer specializing in building cloud-based web apps with a background in electrical test and design.
       </p>
     </>
   );

@@ -11,4 +11,4 @@ tech:
   - Bootstrap
 ---
 
-Built a mock car dealership website using Django and IBM Cloud. Designed APIs using Django REST Framework to create, read, update and delete dealerships and customer reviews in a cloud-based database.
+Built a mock car dealership website using Django and IBM Cloud. Designed APIs using Django REST Framework to create, read, update and delete dealerships, customer reviews, and user login info in a cloud-based database.

@@ -136,23 +136,22 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Tom and I enjoy learning new things and building cool stuff. I am
-              currently studying data structures and algorithms.
+              Hello! My name is Tom and I enjoy learning new things and building cool stuff. My main focus now is building web apps and studying algorithms.
             </p>
 
             <p>
               Previously, I have worked in{' '}
               <a href="http://www.biologyplus.org/">a biochemistry lab</a>,{' '}
-              <a href="https://itron.com/">a renewable energy company</a>,{' '}
+              <a href="https://itron.com/">a smart grid company</a>,{' '}
               <a href="https://www.analog.com/en/applications/markets/healthcare-pavilion-home.html">
                 a semiconductor company
               </a>
               , and{' '}
               <a href="https://www.lockheedmartin.com/en-us/index.html">the F-35 production line</a>
-              . My main focus now is developing full-stack web applications.
+              .
             </p>
 
-            <p>My hobbies are CrossFit and DJing.</p>
+            <p>My hobbies are CrossFit and, occasionally, DJing.</p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
           </div>
