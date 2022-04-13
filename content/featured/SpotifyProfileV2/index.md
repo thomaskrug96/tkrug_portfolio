@@ -1,6 +1,6 @@
 ---
 date: '3'
-title: 'API for Car Dealerships App'
+title: 'Car Dealership Website'
 cover: './restframework.png'
 external: 'https://github.com/thomaskrug96/agfzb-CloudAppDevelopment_Capstone'
 cta: 'https://github.com/thomaskrug96/agfzb-CloudAppDevelopment_Capstone'

@@ -12,7 +12,7 @@ module.exports = {
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/thomaskrug96',
+      url: 'https://twitter.com/tomkrug96',
     },
     {
       name: 'Linkedin',
