@@ -1,4 +1,4 @@
-Page design and layout by Brittany Chiang [brittanychiang.com](https://brittanychiang.com). Thanks!
+Page design and layout by Brittany Chiang [brittanychiang.com](https://brittanychiang.com).
 
 ## 🛠 Installation & Set Up
 
