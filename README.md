@@ -1,3 +1,4 @@
+Page design by Brittany Chiang
 ## 🛠 Installation & Set Up
 
 1. Install the Gatsby CLI
