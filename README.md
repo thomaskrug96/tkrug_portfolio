@@ -1,5 +1,3 @@
-Page design and layout by Brittany Chiang [brittanychiang.com](https://brittanychiang.com).
-
 ## 🛠 Installation & Set Up
 
 1. Install the Gatsby CLI
