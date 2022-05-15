@@ -25,7 +25,7 @@ var plugins = [{
     },{
       name: 'gatsby-plugin-google-analytics',
       plugin: require('/Users/tkrug/Documents/GitHub/tkrug_portfolio/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
-      options: {"plugins":[],"trackingId":"UA-45666519-2","head":false,"anonymize":false,"respectDNT":false,"exclude":[],"pageTransitionDelay":0},
+      options: {"plugins":[],"trackingId":"G-RKC24E2WES","head":false,"anonymize":false,"respectDNT":false,"exclude":[],"pageTransitionDelay":0},
     }]
 /* global plugins */
 // During bootstrap, we write requires at top of this file which looks like:
