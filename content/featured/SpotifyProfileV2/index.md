@@ -1,14 +1,14 @@
 ---
-date: '3'
-title: 'Car Dealership Website'
-cover: './restframework.png'
-external: 'https://github.com/thomaskrug96/agfzb-CloudAppDevelopment_Capstone'
-cta: 'https://github.com/thomaskrug96/agfzb-CloudAppDevelopment_Capstone'
+date: '2'
+title: 'Nanedge'
+cover: './nanedge.jpg'
+external: 'https://nanedge.com'
+cta: 'https://nanedge.com'
 tech:
   - Python
-  - Django
-  - IBM Cloud
-  - Bootstrap
+  - Google Cloud Platform
+  - Dart
+  - Android/iOS Development
 ---
 
-Built a mock car dealership website using Django and IBM Cloud. Designed APIs using Django REST Framework to create, read, update and delete dealerships, customer reviews, and user login info in a cloud-based database.
+Nanedge is helping fitness professionals offer their products and services to individuals with adaptive requirements.

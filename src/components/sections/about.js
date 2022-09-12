@@ -126,7 +126,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Python', 'Django', 'React', 'JavaScript', 'Bootstrap', 'AWS'];
+  const skills = ['Python', 'Django', 'React', 'Google Cloud Platform', 'Bootstrap', 'AWS'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -136,7 +136,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Tom and I enjoy learning new things and building cool stuff. My main focus now is building web apps and studying algorithms.
+            Hello! I'm a 25-year-old software engineer in Boston who enjoys learning new things and building cool stuff. I am currently developing resources for adaptive athletes to gain better access to fitness communities at Nanedge.
             </p>
 
             <p>

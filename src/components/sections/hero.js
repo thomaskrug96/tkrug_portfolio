@@ -64,7 +64,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I'm a software engineer specializing in building cloud-based web apps with a background in electrical test and design.
+      I'm an engineer with interests in fitness, technology, music and neuroscience.
       </p>
     </>
   );
